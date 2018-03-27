@@ -34,6 +34,7 @@ requirements:
     - clangdev 4.0*  # [osx]
     - libcxx 4.0.*  # [osx]
     - openmp 4.0.*  # [osx]
+    - toolchain
 
 test:
   imports:
